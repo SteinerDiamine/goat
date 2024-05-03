@@ -49,11 +49,7 @@ export default function Home() {
     <LampComponent/>
     <div className="flex flex-wrap items-center justify-center flex-col md:flex-row gap-8 -m-72">
       <CardContainer className="inter-var">
-      <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-neutral-500/[0.1] dark:bg-black dark:border-[#E2CBFF] border-black/[0.1] w-full md:!w-[350px] h-auto rounded-xl p-6 border">
-             
-              
-            </CardBody>
-
+      
       </CardContainer>
     </div>
       </section>
